@@ -1,0 +1,6 @@
+D:\BSUIR\МиАПР\lab9\lab9\ImageLoad\bin\Debug\ImageLoad.dll
+D:\BSUIR\МиАПР\lab9\lab9\ImageLoad\bin\Debug\ImageLoad.pdb
+D:\BSUIR\МиАПР\lab9\lab9\ImageLoad\obj\Debug\ImageLoad.csproj.AssemblyReference.cache
+D:\BSUIR\МиАПР\lab9\lab9\ImageLoad\obj\Debug\ImageLoad.csproj.CoreCompileInputs.cache
+D:\BSUIR\МиАПР\lab9\lab9\ImageLoad\obj\Debug\ImageLoad.dll
+D:\BSUIR\МиАПР\lab9\lab9\ImageLoad\obj\Debug\ImageLoad.pdb

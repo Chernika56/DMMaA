@@ -1,0 +1,6 @@
+D:\BSUIR\МиАПР\lab9\lab9\NeuralNetwork\bin\Debug\NeuralNetwork.dll
+D:\BSUIR\МиАПР\lab9\lab9\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+D:\BSUIR\МиАПР\lab9\lab9\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.AssemblyReference.cache
+D:\BSUIR\МиАПР\lab9\lab9\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.CoreCompileInputs.cache
+D:\BSUIR\МиАПР\lab9\lab9\NeuralNetwork\obj\Debug\NeuralNetwork.dll
+D:\BSUIR\МиАПР\lab9\lab9\NeuralNetwork\obj\Debug\NeuralNetwork.pdb

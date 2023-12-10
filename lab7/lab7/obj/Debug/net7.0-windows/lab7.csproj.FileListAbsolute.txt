@@ -1,0 +1,17 @@
+D:\BSUIR\МиАПР\lab7\lab7\bin\Debug\net7.0-windows\lab7.exe
+D:\BSUIR\МиАПР\lab7\lab7\bin\Debug\net7.0-windows\lab7.deps.json
+D:\BSUIR\МиАПР\lab7\lab7\bin\Debug\net7.0-windows\lab7.runtimeconfig.json
+D:\BSUIR\МиАПР\lab7\lab7\bin\Debug\net7.0-windows\lab7.dll
+D:\BSUIR\МиАПР\lab7\lab7\bin\Debug\net7.0-windows\lab7.pdb
+D:\BSUIR\МиАПР\lab7\lab7\obj\Debug\net7.0-windows\lab7.csproj.AssemblyReference.cache
+D:\BSUIR\МиАПР\lab7\lab7\obj\Debug\net7.0-windows\lab7.MainForm.resources
+D:\BSUIR\МиАПР\lab7\lab7\obj\Debug\net7.0-windows\lab7.csproj.GenerateResource.cache
+D:\BSUIR\МиАПР\lab7\lab7\obj\Debug\net7.0-windows\lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSUIR\МиАПР\lab7\lab7\obj\Debug\net7.0-windows\lab7.AssemblyInfoInputs.cache
+D:\BSUIR\МиАПР\lab7\lab7\obj\Debug\net7.0-windows\lab7.AssemblyInfo.cs
+D:\BSUIR\МиАПР\lab7\lab7\obj\Debug\net7.0-windows\lab7.csproj.CoreCompileInputs.cache
+D:\BSUIR\МиАПР\lab7\lab7\obj\Debug\net7.0-windows\lab7.dll
+D:\BSUIR\МиАПР\lab7\lab7\obj\Debug\net7.0-windows\refint\lab7.dll
+D:\BSUIR\МиАПР\lab7\lab7\obj\Debug\net7.0-windows\lab7.pdb
+D:\BSUIR\МиАПР\lab7\lab7\obj\Debug\net7.0-windows\lab7.genruntimeconfig.cache
+D:\BSUIR\МиАПР\lab7\lab7\obj\Debug\net7.0-windows\ref\lab7.dll

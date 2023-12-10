@@ -1,0 +1,17 @@
+D:\БГУИР\МиАПР\lab5\lab5\bin\Debug\net7.0-windows\lab5.exe
+D:\БГУИР\МиАПР\lab5\lab5\bin\Debug\net7.0-windows\lab5.deps.json
+D:\БГУИР\МиАПР\lab5\lab5\bin\Debug\net7.0-windows\lab5.runtimeconfig.json
+D:\БГУИР\МиАПР\lab5\lab5\bin\Debug\net7.0-windows\lab5.dll
+D:\БГУИР\МиАПР\lab5\lab5\bin\Debug\net7.0-windows\lab5.pdb
+D:\БГУИР\МиАПР\lab5\lab5\obj\Debug\net7.0-windows\lab5.csproj.AssemblyReference.cache
+D:\БГУИР\МиАПР\lab5\lab5\obj\Debug\net7.0-windows\lab5.MainForm.resources
+D:\БГУИР\МиАПР\lab5\lab5\obj\Debug\net7.0-windows\lab5.csproj.GenerateResource.cache
+D:\БГУИР\МиАПР\lab5\lab5\obj\Debug\net7.0-windows\lab5.GeneratedMSBuildEditorConfig.editorconfig
+D:\БГУИР\МиАПР\lab5\lab5\obj\Debug\net7.0-windows\lab5.AssemblyInfoInputs.cache
+D:\БГУИР\МиАПР\lab5\lab5\obj\Debug\net7.0-windows\lab5.AssemblyInfo.cs
+D:\БГУИР\МиАПР\lab5\lab5\obj\Debug\net7.0-windows\lab5.csproj.CoreCompileInputs.cache
+D:\БГУИР\МиАПР\lab5\lab5\obj\Debug\net7.0-windows\lab5.dll
+D:\БГУИР\МиАПР\lab5\lab5\obj\Debug\net7.0-windows\refint\lab5.dll
+D:\БГУИР\МиАПР\lab5\lab5\obj\Debug\net7.0-windows\lab5.pdb
+D:\БГУИР\МиАПР\lab5\lab5\obj\Debug\net7.0-windows\lab5.genruntimeconfig.cache
+D:\БГУИР\МиАПР\lab5\lab5\obj\Debug\net7.0-windows\ref\lab5.dll
